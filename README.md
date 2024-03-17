@@ -1,1 +1,1 @@
-# ds_college_assignment_1
+# ds_college_assignments
